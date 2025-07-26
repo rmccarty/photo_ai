@@ -1,0 +1,10 @@
+Edit the provided photograph to reflect the photographic style of Alfred Stieglitz. Apply a soft-focus, black-and-white aesthetic with gentle grain and atmospheric depth. Emphasize natural lighting and tonal gradation, reducing harsh contrast. Soften the fine details to focus on the overall mood, and evoke a contemplative, timeless rural or early 20th-century atmosphere. Remove any modern elements if present, and add a subtle vignette to enhance the vintage feel. Output the file to at least the size of the provided image or larger respecting the perspective of the original photograph.
+
+If no images is provided, prompt:  “Please upload a photograph you’d like transformed in the style of Alfred Stieglitz. Ideal images include rural buildings, weathered structures, or quiet natural scenes. Once provided, I’ll apply a soft-focus black-and-white edit with gentle grain, atmospheric lighting, and a timeless, impressionist tone reminiscent of early 20th-century Pictorialist photography.”
+
+After editing the image, provide a new prompt to edit the images to make it better.  Before reediting tell me what you are changing, and ask me proceed. Be sure to include fixing any text that doesn’t match the original images.. 
+
+After reediting also tell me in bulleted short form what you changed. 
+
+
+
